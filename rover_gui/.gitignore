@@ -1,0 +1,37 @@
+# ROS build files
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Qt Designer files
+*.ui
+*.qrc
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Compiled Python extensions
+*.so
