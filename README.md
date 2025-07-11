@@ -51,7 +51,9 @@
   ros2 run rover_gui rover_gui
 ```
 4. Run the .ino file (for arm)
-**MUST: change hostname id in (gui.py) change hostname id , ssid, password in (.ino) file**
+
+**MUST: You have to change the hostname id in (combined_control_gui.py), and build the pkg again**
+**change hostname id , ssid, password in (web-socket-arm.ino) file**
 
 # Gamepad Controls
 
