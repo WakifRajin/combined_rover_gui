@@ -53,21 +53,21 @@
 4. Run the .ino file (for arm)
 **MUST: change hostname id in (gui.py) change hostname id , ssid, password in (.ino) file**
 
-## Gamepad Controls
-Arm Control:
+# Gamepad Controls
 
-  RT/LT: Increase/decrease PWM
-  RB/LB: Adjust wrist servo
-  B/Y/X: Toggle base/shoulder/elbow motors
-  D-pad: Control gripper and roller
+## Arm Control:
+- **RT / LT**: Increase / Decrease PWM  
+- **RB / LB**: Adjust wrist servo  
+- **B / Y / X**: Toggle base / shoulder / elbow motors  
+- **D-pad**: Control gripper and roller  
+- **L / R buttons**: Stop gripper / roller  
+- **START**: Reset arm
 
-L/R buttons: Stop gripper/roller
+## Wheel Control:
+- **Left stick**: Direction control  
+- **Right stick**: Speed adjustment  
+- **START**: Stop all movement
 
-START: Reset arm
-
-Wheel Control:
-
-Left stick: Direction control
 
 Right stick: Speed adjustment
 
