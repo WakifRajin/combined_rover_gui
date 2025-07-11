@@ -56,19 +56,20 @@
 # Gamepad Controls
 
 ## Arm Control:
-- **RT / LT**: Increase / Decrease PWM  
-- **RB / LB**: Adjust wrist servo  
-- **B / Y / X**: Toggle base / shoulder / elbow motors  
-- **D-pad**: Control gripper and roller  
-- **L / R buttons**: Stop gripper / roller  
+- **LT / RT**: Shared motor PWM slider  
+- **LB / RB**: Wrist servo control  
+- **D-pad Up**: Gripper open  
+- **D-pad Down**: Gripper close  
+- **D-pad Right**: Roller open  
+- **D-pad Left**: Roller close  
+- **L button**: Gripper stop  
+- **R button**: Roller stop  
+- **B**: Toggle base motor  
+- **X**: Toggle shoulder motor  
+- **Y**: Toggle elbow motor  
 - **START**: Reset arm
 
 ## Wheel Control:
 - **Left stick**: Direction control  
 - **Right stick**: Speed adjustment  
 - **START**: Stop all movement
-
-
-Right stick: Speed adjustment
-
-START: Stop all movement
